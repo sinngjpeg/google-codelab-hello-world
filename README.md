@@ -1,7 +1,9 @@
 ### 🌍 **Codelab - Hello World**
-Este repositório contém o projeto do **Hello World Codelab**, uma introdução prática e divertida ao desenvolvimento com as ferramentas da Google.
+
 ---
-#### Screen 
+Este repositório contém o projeto do **Hello World Codelab**, uma introdução prática e divertida ao desenvolvimento com as ferramentas da Google.
+
+#### 📷 Screen 
 <p align="center">
   <img src="images/screenshot.png" width="300"/>
 </p>
